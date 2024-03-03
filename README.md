@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a polish Data Science student, known as Kacper Gałan aka @jaszczurinho.
 - 👀 I’m interested in Data Science and Machine Learning. I like Maths.
 - 🌱 I’m currently learning Neural Networks.
-- 💞️ I’m working on a Anomaly Detection/Clustering Model.
+- 💞️ I’m working on an Anomaly Detection/Clustering Model.
 - ⚡ Fun fact: I hate strawberries.
 
 <!---
